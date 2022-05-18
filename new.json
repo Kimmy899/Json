@@ -1,4 +1,7 @@
 {
-	"p1" - "Alex"
-
+	"firstName":"Kimberly",
+        "LastName":"Nazarova",
+	"age":24,
+	"animals":"cat",
+	"animalsname":"Teddy"
 }
